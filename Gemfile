@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-  gem 'tzinfo-data'
   gem 'jekyll'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
@@ -12,3 +11,4 @@ end
 
 gem 'github-pages'
 gem 'connection_pool', '2.5.0'
+gem 'tzinfo-data'
